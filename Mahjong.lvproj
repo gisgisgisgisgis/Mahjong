@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="Functions" Type="Folder">
 			<Item Name="CountTilesInArray.vi" Type="VI" URL="../VIs/Functions/CountTilesInArray.vi"/>
+			<Item Name="DeleteFromHandAndAddToDoor.vi" Type="VI" URL="../VIs/Functions/DeleteFromHandAndAddToDoor.vi"/>
 			<Item Name="DeleteTileFromRiver.vi" Type="VI" URL="../VIs/Functions/DeleteTileFromRiver.vi"/>
 			<Item Name="DrawACard.vi" Type="VI" URL="../VIs/Functions/DrawACard.vi"/>
 			<Item Name="GetChiChoice.vi" Type="VI" URL="../VIs/Functions/GetChiChoice.vi"/>
