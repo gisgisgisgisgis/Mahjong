@@ -28,6 +28,12 @@
 			<Item Name="ProcessPlayerOperations.vi" Type="VI" URL="../VIs/Functions/ProcessPlayerOperations.vi"/>
 			<Item Name="ThrowACard.vi" Type="VI" URL="../VIs/Functions/ThrowACard.vi"/>
 		</Item>
+		<Item Name="Resources" Type="Folder">
+			<Item Name="Images" Type="Folder">
+				<Item Name="StartGame.png" Type="Document" URL="../VIs/Image/StartGame.png"/>
+				<Item Name="Title.png" Type="Document" URL="../VIs/Image/Title.png"/>
+			</Item>
+		</Item>
 		<Item Name="Game.vi" Type="VI" URL="../VIs/Game.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../VIs/Main.vi"/>
 		<Item Name="Menu.vi" Type="VI" URL="../VIs/Menu.vi"/>
