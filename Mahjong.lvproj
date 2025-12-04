@@ -14,6 +14,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Game.ctl" Type="VI" URL="../VIs/Controls/Game.ctl"/>
+			<Item Name="Global.vi" Type="VI" URL="../VIs/Controls/Global.vi"/>
+			<Item Name="PictureButton.ctl" Type="VI" URL="../VIs/Controls/PictureButton.ctl"/>
 			<Item Name="Player.ctl" Type="VI" URL="../VIs/Controls/Player.ctl"/>
 			<Item Name="Tiles.ctl" Type="VI" URL="../VIs/Controls/Tiles.ctl"/>
 		</Item>
@@ -27,6 +29,8 @@
 			<Item Name="ThrowACard.vi" Type="VI" URL="../VIs/Functions/ThrowACard.vi"/>
 		</Item>
 		<Item Name="Game.vi" Type="VI" URL="../VIs/Game.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../VIs/Main.vi"/>
+		<Item Name="Menu.vi" Type="VI" URL="../VIs/Menu.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
