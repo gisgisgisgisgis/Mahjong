@@ -20,6 +20,9 @@
 			<Item Name="Tiles.ctl" Type="VI" URL="../VIs/Controls/Tiles.ctl"/>
 		</Item>
 		<Item Name="Functions" Type="Folder">
+			<Item Name="CanMakeSet.vi" Type="VI" URL="../VIs/Functions/CanMakeSet.vi"/>
+			<Item Name="CheckHu.vi" Type="VI" URL="../VIs/Functions/CheckHu.vi"/>
+			<Item Name="ConvertToHandCount.vi" Type="VI" URL="../VIs/Functions/ConvertToHandCount.vi"/>
 			<Item Name="CountTilesInArray.vi" Type="VI" URL="../VIs/Functions/CountTilesInArray.vi"/>
 			<Item Name="DeleteFromHandAndAddToDoor.vi" Type="VI" URL="../VIs/Functions/DeleteFromHandAndAddToDoor.vi"/>
 			<Item Name="DeleteTileFromRiver.vi" Type="VI" URL="../VIs/Functions/DeleteTileFromRiver.vi"/>
