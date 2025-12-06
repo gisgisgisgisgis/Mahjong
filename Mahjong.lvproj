@@ -38,6 +38,7 @@
 				<Item Name="Title.png" Type="Document" URL="../VIs/Image/Title.png"/>
 			</Item>
 		</Item>
+		<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
 		<Item Name="Game.vi" Type="VI" URL="../VIs/Game.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../VIs/Main.vi"/>
 		<Item Name="Menu.vi" Type="VI" URL="../VIs/Menu.vi"/>
