@@ -20,6 +20,7 @@
 			<Item Name="Tiles.ctl" Type="VI" URL="../VIs/Controls/Tiles.ctl"/>
 		</Item>
 		<Item Name="Functions" Type="Folder">
+			<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
 			<Item Name="CanMakeSet.vi" Type="VI" URL="../VIs/Functions/CanMakeSet.vi"/>
 			<Item Name="CheckHu.vi" Type="VI" URL="../VIs/Functions/CheckHu.vi"/>
 			<Item Name="ConvertToHandCount.vi" Type="VI" URL="../VIs/Functions/ConvertToHandCount.vi"/>
@@ -40,7 +41,6 @@
 				<Item Name="Waiting.png" Type="Document" URL="../VIs/Images/Waiting.png"/>
 			</Item>
 		</Item>
-		<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
 		<Item Name="Game.vi" Type="VI" URL="../VIs/Game.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../VIs/Main.vi"/>
 		<Item Name="Menu.vi" Type="VI" URL="../VIs/Menu.vi"/>
