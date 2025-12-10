@@ -34,8 +34,10 @@
 		</Item>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="Images" Type="Folder">
-				<Item Name="StartGame.png" Type="Document" URL="../VIs/Image/StartGame.png"/>
-				<Item Name="Title.png" Type="Document" URL="../VIs/Image/Title.png"/>
+				<Item Name="PlayerCount.png" Type="Document" URL="../VIs/Images/PlayerCount.png"/>
+				<Item Name="StartGame.png" Type="Document" URL="../VIs/Images/StartGame.png"/>
+				<Item Name="Title.png" Type="Document" URL="../VIs/Images/Title.png"/>
+				<Item Name="Waiting.png" Type="Document" URL="../VIs/Images/Waiting.png"/>
 			</Item>
 		</Item>
 		<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
