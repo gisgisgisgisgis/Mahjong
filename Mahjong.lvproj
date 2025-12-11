@@ -20,6 +20,15 @@
 			<Item Name="Tiles.ctl" Type="VI" URL="../VIs/Controls/Tiles.ctl"/>
 		</Item>
 		<Item Name="Functions" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="AI" Type="Folder">
+				<Item Name="CountShantenWithEye.vi" Type="VI" URL="../VIs/Functions/CountShantenWithEye.vi"/>
+				<Item Name="CountShantenWithoutEye.vi" Type="VI" URL="../VIs/Functions/CountShantenWithoutEye.vi"/>
+				<Item Name="ShanTen.vi" Type="VI" URL="../VIs/Functions/ShanTen.vi"/>
+				<Item Name="ThrowTile.vi" Type="VI" URL="../VIs/Functions/ThrowTile.vi"/>
+				<Item Name="EvaluateHonor.vi" Type="VI" URL="../VIs/Functions/EvaluateHonor.vi"/>
+				<Item Name="EvaluateSuit.vi" Type="VI" URL="../VIs/Functions/EvaluateSuit.vi"/>
+			</Item>
 			<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
 			<Item Name="CanMakeSet.vi" Type="VI" URL="../VIs/Functions/CanMakeSet.vi"/>
 			<Item Name="CheckHu.vi" Type="VI" URL="../VIs/Functions/CheckHu.vi"/>
