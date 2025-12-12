@@ -22,17 +22,16 @@
 		<Item Name="Functions" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="AI" Type="Folder">
-				<Item Name="CountShantenWithEye.vi" Type="VI" URL="../VIs/Functions/CountShantenWithEye.vi"/>
-				<Item Name="CountShantenWithoutEye.vi" Type="VI" URL="../VIs/Functions/CountShantenWithoutEye.vi"/>
-				<Item Name="ShanTen.vi" Type="VI" URL="../VIs/Functions/ShanTen.vi"/>
-				<Item Name="ThrowTile.vi" Type="VI" URL="../VIs/Functions/ThrowTile.vi"/>
-				<Item Name="EvaluateHonor.vi" Type="VI" URL="../VIs/Functions/EvaluateHonor.vi"/>
-				<Item Name="EvaluateSuit.vi" Type="VI" URL="../VIs/Functions/EvaluateSuit.vi"/>
+				<Item Name="CountShantenWithEye.vi" Type="VI" URL="../VIs/Functions/AI/CountShantenWithEye.vi"/>
+				<Item Name="CountShantenWithoutEye.vi" Type="VI" URL="../VIs/Functions/AI/CountShantenWithoutEye.vi"/>
+				<Item Name="EvaluateHonor.vi" Type="VI" URL="../VIs/Functions/AI/EvaluateHonor.vi"/>
+				<Item Name="EvaluateSuit.vi" Type="VI" URL="../VIs/Functions/AI/EvaluateSuit.vi"/>
+				<Item Name="ShanTen.vi" Type="VI" URL="../VIs/Functions/AI/ShanTen.vi"/>
+				<Item Name="ThrowTile.vi" Type="VI" URL="../VIs/Functions/AI/ThrowTile.vi"/>
 			</Item>
 			<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
 			<Item Name="CanMakeSet.vi" Type="VI" URL="../VIs/Functions/CanMakeSet.vi"/>
 			<Item Name="CheckHu.vi" Type="VI" URL="../VIs/Functions/CheckHu.vi"/>
-			<Item Name="ConvertToHandCount.vi" Type="VI" URL="../VIs/Functions/ConvertToHandCount.vi"/>
 			<Item Name="CountTilesInArray.vi" Type="VI" URL="../VIs/Functions/CountTilesInArray.vi"/>
 			<Item Name="DeleteFromHandAndAddToDoor.vi" Type="VI" URL="../VIs/Functions/DeleteFromHandAndAddToDoor.vi"/>
 			<Item Name="DeleteTileFromRiver.vi" Type="VI" URL="../VIs/Functions/DeleteTileFromRiver.vi"/>
@@ -41,6 +40,7 @@
 			<Item Name="GetNextPlayer.vi" Type="VI" URL="../VIs/Functions/GetNextPlayer.vi"/>
 			<Item Name="ProcessPlayerOperations.vi" Type="VI" URL="../VIs/Functions/ProcessPlayerOperations.vi"/>
 			<Item Name="ThrowACard.vi" Type="VI" URL="../VIs/Functions/ThrowACard.vi"/>
+			<Item Name="ConvertToHandCount.vi" Type="VI" URL="../VIs/Functions/ConvertToHandCount.vi"/>
 		</Item>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="Images" Type="Folder">
