@@ -28,6 +28,10 @@
 				<Item Name="EvaluateSuit.vi" Type="VI" URL="../VIs/Functions/AI/EvaluateSuit.vi"/>
 				<Item Name="ShanTen.vi" Type="VI" URL="../VIs/Functions/AI/ShanTen.vi"/>
 				<Item Name="ThrowTile.vi" Type="VI" URL="../VIs/Functions/AI/ThrowTile.vi"/>
+				<Item Name="ChiStrategy.vi" Type="VI" URL="../VIs/Functions/AI/ChiStrategy.vi"/>
+				<Item Name="PongStrategy.vi" Type="VI" URL="../VIs/Functions/AI/PongStrategy.vi"/>
+				<Item Name="KungStrategy.vi" Type="VI" URL="../VIs/Functions/AI/KungStrategy.vi"/>
+				<Item Name="HuStrategy.vi" Type="VI" URL="../VIs/Functions/AI/HuStrategy.vi"/>
 			</Item>
 			<Item Name="CanAddKung.vi" Type="VI" URL="../VIs/Functions/CanAddKung.vi"/>
 			<Item Name="CanMakeSet.vi" Type="VI" URL="../VIs/Functions/CanMakeSet.vi"/>
