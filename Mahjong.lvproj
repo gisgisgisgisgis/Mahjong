@@ -46,6 +46,7 @@
 			<Item Name="ThrowACard.vi" Type="VI" URL="../VIs/Functions/ThrowACard.vi"/>
 			<Item Name="ConvertToHandCount.vi" Type="VI" URL="../VIs/Functions/ConvertToHandCount.vi"/>
 		</Item>
+		<Item Name="Images" Type="Folder"/>
 		<Item Name="Resources" Type="Folder">
 			<Item Name="Images" Type="Folder">
 				<Item Name="PlayerCount.png" Type="Document" URL="../VIs/Images/PlayerCount.png"/>
@@ -53,6 +54,11 @@
 				<Item Name="Title.png" Type="Document" URL="../VIs/Images/Title.png"/>
 				<Item Name="Waiting.png" Type="Document" URL="../VIs/Images/Waiting.png"/>
 			</Item>
+		</Item>
+		<Item Name="Sounds" Type="Folder">
+			<Item Name="chi.wav" Type="Document" URL="../VIs/Sounds/chi.wav"/>
+			<Item Name="kan.wav" Type="Document" URL="../VIs/Sounds/kan.wav"/>
+			<Item Name="pon.wav" Type="Document" URL="../VIs/Sounds/pon.wav"/>
 		</Item>
 		<Item Name="Game.vi" Type="VI" URL="../VIs/Game.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../VIs/Main.vi"/>
